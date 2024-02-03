@@ -1,0 +1,122 @@
+[
+    {
+        "name": "accent chair",
+        "price": 25,
+        "company": "ikea",
+        "rating": 5
+    },
+    {
+        "name": "bread",
+        "price": 10,
+        "company": "shoprite",
+        "rating": 5
+    },
+    {
+        "name": "lagos bread",
+        "price": 2,
+        "company": "shoprite",
+        "rating": 5
+    },
+    {
+        "name": "arm chair",
+        "price": 12,
+        "company": "bestbuy",
+        "rating": 5
+    },
+    {
+        "name": "albany table",
+        "price": 33,
+        "company": "minisou",
+        "rating": 5
+    },
+    {
+        "name": "table fan",
+        "price": 31,
+        "company": "bestbuy",
+        "rating": 3
+    },
+    {
+        "name": "standing fan",
+        "price": 22,
+        "company": "bestbuy",
+        "rating": 4
+    },
+    {
+        "name": "bottle water",
+        "price": 5,
+        "company": "shoprite",
+        "rating": 4
+    },
+    {
+        "name": "pure water",
+        "price": 2,
+        "company": "shoprite",
+        "rating": 5
+    },
+    {
+        "name": "lg tv",
+        "price": 179,
+        "company": "ikea",
+        "rating": 3
+    },
+    {
+        "name": "sony tv",
+        "price": 200,
+        "company": "bestbuy",
+        "rating": 3
+    },
+    {
+        "name": "sony speaker",
+        "price": 122,
+        "company": "bestbuy",
+        "rating": 4
+    },
+    {
+        "name": "lg speaker",
+        "price": 125,
+        "company": "ikea",
+        "rating": 4.5
+    },
+    {
+        "name": "laptop",
+        "price": 456,
+        "company": "ikea",
+        "rating": 5
+    },
+    {
+        "name": "pillow",
+        "price": 12,
+        "company": "minisou",
+        "rating": 2
+    },
+    {
+        "name": "mouse tracking pad",
+        "price": 8,
+        "company": "minisou",
+        "rating": 4
+    },
+    {
+        "name": "ring light",
+        "price": 12,
+        "company": "minisou",
+        "rating": 4
+    },
+    {
+        "name": "cardboard boxes",
+        "price": 2,
+        "company": "ikea",
+        "rating": 4
+    },
+    {
+        "name": "pepper",
+        "price": 5,
+        "company": "shoprite",
+        "rating": 3
+    },
+    {
+        "name": "iphone 15",
+        "price": 1500,
+        "company": "bestbuy",
+        "rating": 3
+    }
+]
